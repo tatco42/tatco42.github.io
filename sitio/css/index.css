@@ -1,0 +1,33 @@
+#banner{
+    background-image: url(../img/mejor-cafe-de-costa-rica.jpg);
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slider{
+    background-image: url(../img/img1.jpg);
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#parallax3{
+    background-image: url(../img/img11.jpg);
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#footer{
+    min-height: 30vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+a{
+    cursor: pointer;
+}
